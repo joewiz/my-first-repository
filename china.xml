@@ -1,0 +1,34 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>A Guide to the United States’ History of Recognition, Diplomatic, and
+                    Consular Relations, by Country, since 1776: China</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Department of State, 2008</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Researched and written by Christopher Morrison, March 2008</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="summary">
+                <head>Summary</head>
+                <p>After the American Revolution ended, a Philadelphia financier in 1784 sent the
+                    ship <hi rend="italic">Empress of China</hi> for the first voyage of direct
+                    trade between the United States and China. In the 60 years following the <hi
+                        rend="italic">Empress of China’s</hi> voyage, relations among U.S. citizens
+                    and Chinese were private and largely commercial. Nevertheless, Sino-American
+                    trade grew under the Chinese system that limited foreign traders’ access to a
+                    single port city, Guangzhou (Canton). <figure>
+                        <graphic url="china-flag.jpg"/>
+                        <head>Modern Flag of China</head>
+                    </figure>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>
