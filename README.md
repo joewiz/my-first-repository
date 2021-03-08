@@ -1,2 +1,3 @@
 # my-first-repository
- A gentle introduction to Git
+
+A gentle introduction to Git
